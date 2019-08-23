@@ -1,3 +1,7 @@
+/*
+ * I am Levin Weinstein. Hear me roar.
+ */
+
 public class Practice01MathIterative implements Practice01Math {
     public int fact(int n) throws Exception{
         if (n < 0)

@@ -1,3 +1,7 @@
+/*
+ * I am Levin Weinstein. Hear me roar.
+ */
+
 import java.security.InvalidParameterException;
 
 public class Practice01MathRecursive implements Practice01Math {
